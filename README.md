@@ -35,6 +35,6 @@ I'm a Backend & Fullstack Developer and Data Scientist passionate about building
 - Cross-platform Mobile Development with Flutter
 
 ### 📫 Contact Me
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- Email: [your.email@example.com](mailto:ym010900@gmail.com)  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/ysfm01)  
+- GitHub: [github.com/yourusername](https://github.com/ym010900)
